@@ -7,9 +7,9 @@ public class Student {
 		String fullname = fname + "  " + lname;
 
 		return fullname;
-
+ 
 		// TODO Auto-generated method stub
 
 	}
-
+   
 }

@@ -32,7 +32,7 @@ public class Arthimatic {
 	int mul() {
 		System.out.println("Enter A Value : ");
 		a = scanner.nextInt();
-		System.out.println("Enter A Value : ");
+		System.out.println("Enter B Value : ");
 		b = scanner.nextInt();
 		c = a * b;
 		return c;
