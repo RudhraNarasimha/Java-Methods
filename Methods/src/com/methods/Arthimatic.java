@@ -7,7 +7,7 @@ public class Arthimatic {
 	int a, b, c;
 	Scanner scanner = new Scanner(System.in);
 
-// without returntype and without parameters
+	// without returntype and without parameters
 	void add() {
 		System.out.println("Enter A Value : ");
 		a = scanner.nextInt();
@@ -28,6 +28,7 @@ public class Arthimatic {
 
 	}
 
+	// with returntype and without parameters
 	int mul() {
 		System.out.println("Enter A Value : ");
 		a = scanner.nextInt();
@@ -38,6 +39,7 @@ public class Arthimatic {
 
 	}
 
+	// without returntype and with parameters
 	int div(int x, int y) {
 
 		a = x;
