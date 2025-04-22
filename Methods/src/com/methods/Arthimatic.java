@@ -11,7 +11,7 @@ public class Arthimatic {
 	void add() {
 		System.out.println("Enter A Value : ");
 		a = scanner.nextInt();
-		System.out.println("Enter A Value : ");
+		System.out.println("Enter B Value : ");
 		b = scanner.nextInt();
 		c = a + b;
 		System.out.println("Addition is : " + c);
